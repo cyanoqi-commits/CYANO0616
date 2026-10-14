@@ -1,0 +1,417 @@
+{
+  "videos/bang-cut-1.mp4": {
+    "poster": "posters/bang-cut-1.webp",
+    "width": 1920,
+    "height": 350
+  },
+  "videos/bang-cut-2.mp4": {
+    "poster": "posters/bang-cut-2.webp",
+    "width": 1920,
+    "height": 350
+  },
+  "videos/bang-cut-3.mp4": {
+    "poster": "posters/bang-cut-3.webp",
+    "width": 1920,
+    "height": 350
+  },
+  "videos/bang-cut-4.mp4": {
+    "poster": "posters/bang-cut-4.webp",
+    "width": 1920,
+    "height": 350
+  },
+  "videos/birds-cut-1.mp4": {
+    "poster": "posters/birds-cut-1.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-2.mp4": {
+    "poster": "posters/birds-cut-2.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-3.mp4": {
+    "poster": "posters/birds-cut-3.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-4.mp4": {
+    "poster": "posters/birds-cut-4.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-5.mp4": {
+    "poster": "posters/birds-cut-5.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-6.mp4": {
+    "poster": "posters/birds-cut-6.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/birds-cut-7.mp4": {
+    "poster": "posters/birds-cut-7.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-1.mp4": {
+    "poster": "posters/chaotianmen-cut-1.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-2.mp4": {
+    "poster": "posters/chaotianmen-cut-2.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-3.mp4": {
+    "poster": "posters/chaotianmen-cut-3.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-4.mp4": {
+    "poster": "posters/chaotianmen-cut-4.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-5.mp4": {
+    "poster": "posters/chaotianmen-cut-5.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/chaotianmen-cut-6.mp4": {
+    "poster": "posters/chaotianmen-cut-6.webp",
+    "width": 1920,
+    "height": 646
+  },
+  "videos/encore-cut-1.mp4": {
+    "poster": "posters/encore-cut-1.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/encore-cut-2.mp4": {
+    "poster": "posters/encore-cut-2.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/encore-cut-3.mp4": {
+    "poster": "posters/encore-cut-3.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/encore-cut-4.mp4": {
+    "poster": "posters/encore-cut-4.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/encore-cut-5.mp4": {
+    "poster": "posters/encore-cut-5.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/encore-cut-6.mp4": {
+    "poster": "posters/encore-cut-6.webp",
+    "width": 576,
+    "height": 1024
+  },
+  "videos/evil-loop.mp4": {
+    "poster": "posters/evil-loop.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/FENGMIAN3-web.mp4": {
+    "poster": "posters/FENGMIAN3-web.webp",
+    "width": 1280,
+    "height": 720
+  },
+  "videos/guanzhu-cut-1.mp4": {
+    "poster": "posters/guanzhu-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-2.mp4": {
+    "poster": "posters/guanzhu-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-3.mp4": {
+    "poster": "posters/guanzhu-cut-3.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-4.mp4": {
+    "poster": "posters/guanzhu-cut-4.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-5.mp4": {
+    "poster": "posters/guanzhu-cut-5.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-6.mp4": {
+    "poster": "posters/guanzhu-cut-6.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/guanzhu-cut-7.mp4": {
+    "poster": "posters/guanzhu-cut-7.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/lyc-cut-1.mp4": {
+    "poster": "posters/lyc-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/lyc-cut-2.mp4": {
+    "poster": "posters/lyc-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/open-show-cut-1.mp4": {
+    "poster": "posters/open-show-cut-1.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-2.mp4": {
+    "poster": "posters/open-show-cut-2.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-3.mp4": {
+    "poster": "posters/open-show-cut-3.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-4.mp4": {
+    "poster": "posters/open-show-cut-4.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-5.mp4": {
+    "poster": "posters/open-show-cut-5.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-6.mp4": {
+    "poster": "posters/open-show-cut-6.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-7.mp4": {
+    "poster": "posters/open-show-cut-7.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/open-show-cut-8.mp4": {
+    "poster": "posters/open-show-cut-8.webp",
+    "width": 1920,
+    "height": 512
+  },
+  "videos/premu-cut-1.mp4": {
+    "poster": "posters/premu-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/premu-cut-2.mp4": {
+    "poster": "posters/premu-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/premu-cut-3.mp4": {
+    "poster": "posters/premu-cut-3.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/premu-cut-4.mp4": {
+    "poster": "posters/premu-cut-4.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/project-04.mp4": {
+    "poster": "posters/project-04.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-05.mp4": {
+    "poster": "posters/project-05.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-06.mp4": {
+    "poster": "posters/project-06.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-07.mp4": {
+    "poster": "posters/project-07.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-08.mp4": {
+    "poster": "posters/project-08.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-09.mp4": {
+    "poster": "posters/project-09.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-10.mp4": {
+    "poster": "posters/project-10.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-11.mp4": {
+    "poster": "posters/project-11.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-12.mp4": {
+    "poster": "posters/project-12.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-13.mp4": {
+    "poster": "posters/project-13.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-14.mp4": {
+    "poster": "posters/project-14.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-16.mp4": {
+    "poster": "posters/project-16.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-17.mp4": {
+    "poster": "posters/project-17.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-19.mp4": {
+    "poster": "posters/project-19.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/project-20.mp4": {
+    "poster": "posters/project-20.webp",
+    "width": 960,
+    "height": 540
+  },
+  "videos/ps-love-cut-1.mp4": {
+    "poster": "posters/ps-love-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/ps-love-cut-2.mp4": {
+    "poster": "posters/ps-love-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/ps-love-cut-3.mp4": {
+    "poster": "posters/ps-love-cut-3.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/ps-love-cut-4.mp4": {
+    "poster": "posters/ps-love-cut-4.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/thunderous-cut-1.mp4": {
+    "poster": "posters/thunderous-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/thunderous-cut-2.mp4": {
+    "poster": "posters/thunderous-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/thunderous-cut-3.mp4": {
+    "poster": "posters/thunderous-cut-3.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/thunderous-cut-4.mp4": {
+    "poster": "posters/thunderous-cut-4.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-1.mp4": {
+    "poster": "posters/xingtong-cut-1.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-2.mp4": {
+    "poster": "posters/xingtong-cut-2.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-3.mp4": {
+    "poster": "posters/xingtong-cut-3.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-4.mp4": {
+    "poster": "posters/xingtong-cut-4.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-5.mp4": {
+    "poster": "posters/xingtong-cut-5.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-6.mp4": {
+    "poster": "posters/xingtong-cut-6.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-7.mp4": {
+    "poster": "posters/xingtong-cut-7.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/xingtong-cut-8.mp4": {
+    "poster": "posters/xingtong-cut-8.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  "videos/zhoudaxia-cut-1.mp4": {
+    "poster": "posters/zhoudaxia-cut-1.webp",
+    "width": 1920,
+    "height": 874
+  },
+  "videos/zhoudaxia-cut-2.mp4": {
+    "poster": "posters/zhoudaxia-cut-2.webp",
+    "width": 1920,
+    "height": 874
+  },
+  "videos/zhoudaxia-cut-3.mp4": {
+    "poster": "posters/zhoudaxia-cut-3.webp",
+    "width": 1920,
+    "height": 874
+  },
+  "videos/zhoudaxia-cut-4.mp4": {
+    "poster": "posters/zhoudaxia-cut-4.webp",
+    "width": 1920,
+    "height": 874
+  },
+  "videos/zhoudaxia-cut-5.mp4": {
+    "poster": "posters/zhoudaxia-cut-5.webp",
+    "width": 1920,
+    "height": 874
+  },
+  "videos/zhoudaxia-cut-6.mp4": {
+    "poster": "posters/zhoudaxia-cut-6.webp",
+    "width": 1920,
+    "height": 874
+  }
+}
